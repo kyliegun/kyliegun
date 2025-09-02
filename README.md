@@ -4,16 +4,16 @@
 
 ### About Me
 
-🎓 Software Engineering & Management Student @ McMaster University   
+🎓 Software Engineering & Management III Student @ McMaster University   
 
 I’m passionate about building software that blends technical depth with real-world impact.  
 Currently leading dev teams, creating web experiences, and building tools that engage communities.
 
-- 🚀 Software Developer Lead @ [McMaster Design League](https://github.com/MDL-Codes/CADdie)  
-  → Directed a dev team to launch a modern website & Discord bots, boosting engagement by **60%**.  
-- 🌳 Web/UX Lead @ Trees for Hamilton
-  → Redesigned the site to improve navigation & accessibility, projected to raise donations by **30%** annually.  
-- 🎮 Built [MacGuessr](https://macguessr.com) — A React web game with daily challenges, distance-based scoring, and a global leaderboard.
+- 🚀 **Software Developer Lead** @ [McMaster Design League](https://github.com/MDL-Codes/CADdie)  
+      → Directed a dev team to launch a modern website & Discord bots, boosting engagement by **60%**.  
+- 🌳** Web/UX Lead** @ Trees for Hamilton
+      → Redesigned the site to improve navigation & accessibility, projected to raise donations by **30%** annually.  
+- 🎮** Built** [MacGuessr](https://macguessr.com) — A React web game with daily challenges, distance-based scoring, and a global leaderboard.
 
 ---
 
