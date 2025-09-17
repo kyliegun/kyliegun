@@ -25,7 +25,7 @@ Currently leading dev teams, creating web experiences, and building tools that e
 ## 🔧 Technologies & Tools
 
 `Java` `Python` `C/C++` `TypeScript` `JavaScript` `SQL` `Bash` `HTML/CSS`  
-`React` `Node.js` `Supabase` `Vercel` `Linux` `GitHub Actions` `Maven`  
+`React` `Node.js` `SupaBase` `Vercel` `Linux` `GitHub Actions` `Maven`  
 `SolidWorks` `Autodesk Inventor`
 
 ---
