@@ -9,7 +9,7 @@
 I’m passionate about building software that blends technical depth with real-world impact.  
 Currently leading dev teams, creating web experiences, and building tools that engage communities.  
 
-- 🚀 **Software Developer Lead** — [McMaster Design League](https://github.com/MDL-Codes/CADdie)<br>
+- 💻 **Software Developer Lead** — [McMaster Design League](https://github.com/MDL-Codes/CADdie)<br>
   &nbsp;&nbsp;Directed a dev team to launch a modern website & custom Discord bots, boosting club engagement.
 
 - 🌱 **Web/UX Lead** — Trees for Hamilton<br>
@@ -17,6 +17,10 @@ Currently leading dev teams, creating web experiences, and building tools that e
 
 - 🎮 **Creator** — [MacGuessr](https://macguessr.com)<br>
   &nbsp;&nbsp;A React web game with daily challenges, distance-based scoring, and a global leaderboard.
+
+- 🏎️ **Web Developer** - MAC Formula Electric Business Team
+
+- 🚀 **Operations Member** - McMaster Rocketry Team
 
 
 
