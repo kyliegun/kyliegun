@@ -18,8 +18,8 @@ Currently leading dev teams, creating web experiences, and building tools that e
 - 🎮 **Creator** — [MacGuessr](https://macguessr.com)<br>
   &nbsp;&nbsp;A React web game with daily challenges, distance-based scoring, and a global leaderboard.
 
-- 🏎️ **Web Developer** - MAC Formula Electric Business Team
-
+- 🏎️ **Web Developer** - MAC Formula Electric
+  
 - 🚀 **Operations Member** - McMaster Rocketry Team
 
 
