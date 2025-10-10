@@ -12,13 +12,13 @@ Currently leading dev teams, creating web experiences, and building tools that e
 - 💻 **Software Developer Lead** — [McMaster Design League](https://github.com/MDL-Codes/CADdie)<br>
   &nbsp;&nbsp;Directed a dev team to launch a modern website & custom Discord bots, boosting club engagement.
 
-- 🌱 **Web/UX Lead** — Trees for Hamilton<br>
-  &nbsp;&nbsp;Redesigning the organization's website to improve navigation & accessibility, projected to raise donations by **30%** annually.
-
 - 🎮 **Creator** — [MacGuessr](https://macguessr.com)<br>
   &nbsp;&nbsp;A React web game with daily challenges, distance-based scoring, and a global leaderboard.
 
 - 🏎️ **Web Developer** - MAC Formula Electric
+
+- 🌱 **Web/UX Lead** — Trees for Hamilton<br>
+  &nbsp;&nbsp;Redesigning the organization's website to improve navigation & accessibility, projected to raise donations by **30%** annually.
   
 - 🚀 **Operations Member** - McMaster Rocketry Team
 
